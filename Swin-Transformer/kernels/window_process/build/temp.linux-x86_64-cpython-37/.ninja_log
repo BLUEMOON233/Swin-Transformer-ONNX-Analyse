@@ -1,0 +1,3 @@
+# ninja log v6
+0	9010	1732176475717469064	/home/wardenliu/Develop/Projects/Swin-Transformer-ONNX-Analyse/Swin-Transformer/kernels/window_process/build/temp.linux-x86_64-cpython-37/swin_window_process.o	647550e44f73558f
+1	13153	1732176475718469079	/home/wardenliu/Develop/Projects/Swin-Transformer-ONNX-Analyse/Swin-Transformer/kernels/window_process/build/temp.linux-x86_64-cpython-37/swin_window_process_kernel.o	466475b451b14b0f
